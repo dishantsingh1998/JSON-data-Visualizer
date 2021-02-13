@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/JSON-data-Visualizer/static/css/main.9a028d19.chunk.css",
+    "main.js": "/JSON-data-Visualizer/static/js/main.b4a3432a.chunk.js",
+    "main.js.map": "/JSON-data-Visualizer/static/js/main.b4a3432a.chunk.js.map",
+    "runtime-main.js": "/JSON-data-Visualizer/static/js/runtime-main.b936eaff.js",
+    "runtime-main.js.map": "/JSON-data-Visualizer/static/js/runtime-main.b936eaff.js.map",
+    "static/js/2.01aa7728.chunk.js": "/JSON-data-Visualizer/static/js/2.01aa7728.chunk.js",
+    "static/js/2.01aa7728.chunk.js.map": "/JSON-data-Visualizer/static/js/2.01aa7728.chunk.js.map",
+    "static/js/3.eddf1ee7.chunk.js": "/JSON-data-Visualizer/static/js/3.eddf1ee7.chunk.js",
+    "static/js/3.eddf1ee7.chunk.js.map": "/JSON-data-Visualizer/static/js/3.eddf1ee7.chunk.js.map",
+    "index.html": "/JSON-data-Visualizer/index.html",
+    "static/css/main.9a028d19.chunk.css.map": "/JSON-data-Visualizer/static/css/main.9a028d19.chunk.css.map",
+    "static/js/2.01aa7728.chunk.js.LICENSE.txt": "/JSON-data-Visualizer/static/js/2.01aa7728.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b936eaff.js",
+    "static/js/2.01aa7728.chunk.js",
+    "static/css/main.9a028d19.chunk.css",
+    "static/js/main.b4a3432a.chunk.js"
+  ]
+}
